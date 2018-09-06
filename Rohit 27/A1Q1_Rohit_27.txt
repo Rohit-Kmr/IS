@@ -1,0 +1,11 @@
+To run the file:
+	1. Install anaconda for python 3.6 (may not run without it)
+	2. open anaconda navigator
+	3. open jupyter notebook
+	4. open the file A1Q1_Rohit_27.ipynb
+	5. run the code
+
+logic:
+
+ it works on the logic that if we know the distance moved in every direction then it will reach on the same block no matter how you 
+ permutate it.
